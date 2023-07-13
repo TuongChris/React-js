@@ -20,6 +20,7 @@ const PageLogin = () => {
     }
     if (username && password) {
       if (!validateEmail(username)) {
+        toast.error("Invalid email or password");
         return;
       }
       if (password.length < 7) {
