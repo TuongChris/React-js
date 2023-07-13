@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "username": "mchituong121@gmail.com",
+      "password": "12312312321",
+      "id": 1
+    }
+  ],
+  "persons": [
+    {
+      "field_0": "Mai",
+      "field_1": "Tường",
+      "field_2": "039293698",
+      "field_3": "sontuong121@gmail.com",
+      "field_4": "123ababab",
+      "field_5": "123ababab",
+      "id": 1
+    }
+  ]
+}
